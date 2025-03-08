@@ -1,3 +1,3 @@
-A simple Java-based ATM simulation that allows users to check their balance, deposit and withdraw money, add interest, and change their PIN.
-Concepts used:
-OOP Principles: Abstraction, Encapsulation, Inheritance, Polymorphism
+ A simple console-based ATMSimulation system enabling users to check balance,
+ deposit/withdraw money, add interest, and change PIN.
+ Applied OOP concepts like Abstraction, Encapsulation, Inheritance, and Polymorphism.
